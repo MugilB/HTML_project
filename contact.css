@@ -1,0 +1,23 @@
+.hey{
+    position: fixed;
+    right: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
+    height:auto;
+    z-index: -1;
+    
+}
+
+
+.id{display: inline-flex;
+border-color: black;
+font-size: 60px;
+border-radius: 200px;
+align-items: center;
+border-style: dashed;
+background-color: white;
+border-width: 3px;
+}
+

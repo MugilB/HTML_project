@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Faustina:ital@1&family=Handlee&family=Indie+Flower&family=Josefin+Slab:wght@700&family=Kalam&family=Libre+Baskerville&family=Lora:ital@1&family=Nanum+Gothic&family=Open+Sans&family=Pacifico&family=Patrick+Hand&family=Playfair+Display+SC:ital@1&family=Rajdhani:wght@600&family=Rubik+Distressed&family=Solway&display=swap');
+
+.bg{
+height: 100vh;
+
+}
+
+.bgvideo{
+    position: fixed;
+    right: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
+    height:auto;
+    z-index: -1;
+    
+    }
+
+
+    
+    

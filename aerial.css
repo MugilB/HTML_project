@@ -1,0 +1,12 @@
+.hey{
+     position: fixed;
+     left: 0;
+     right: 0;
+     min-height: 100%;
+     min-width: 100%;
+     width: 100%;
+     height: auto;
+     z-index:-1
+
+
+}

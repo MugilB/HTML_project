@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Faustina:ital@1&family=Handlee&family=Indie+Flower&family=Josefin+Slab:wght@700&family=Kalam&family=Libre+Baskerville&family=Lora:ital@1&family=Open+Sans&family=Pacifico&family=Patrick+Hand&family=Playfair+Display+SC:ital@1&family=Rajdhani:wght@600&family=Rubik+Distressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Faustina:ital@1&family=Handlee&family=Indie+Flower&family=Josefin+Slab:wght@700&family=Kalam&family=Libre+Baskerville&family=Lora:ital@1&family=Nanum+Gothic&family=Open+Sans&family=Pacifico&family=Patrick+Hand&family=Playfair+Display+SC:ital@1&family=Rajdhani:wght@600&family=Rubik+Distressed&display=swap');
+
+.bgvideo{
+    position: fixed;
+    right: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
+nav{ display: flex;
+    justify-content: space-between;
+    background-color:black;
+    padding: 0px 30px;
+    border-radius: 90px;
+    align-items: center;
+    border-color: white;
+    border-style: solid;
+    border-width: 4px;
+    
+}
+
+h1{font-size: 35px;color: white;
+    font-family: lucida handwriting;}
+
+nav ul{display: flex;}
+nav ul li{display: flex; 
+    padding: 0px 25px;
+    list-style-type: none;
+}
+
+nav ul li a{text-decoration: none;
+color: white;
+font-family: 'Patrick Hand', cursive;
+font-size: 25px;
+font-weight: bold;}
+
+form button{background-color: black;
+color: white;
+font-size: 30px;
+font-weight: bold;
+font-family: 'Lora', serif;}
+
+nav ul li a:hover{background-color: white;
+color:black;
+padding: 10px 30px;
+border-radius: 60px;
+speed:3s;}
+
+button a{
+    text-decoration: none;
+    background-color: black;
+    color:white;
+}
+

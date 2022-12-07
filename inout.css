@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Faustina:ital@1&family=Handlee&family=Indie+Flower&family=Josefin+Slab:wght@700&family=Kalam&family=Libre+Baskerville&family=Lora:ital@1&family=Open+Sans&family=Pacifico&family=Patrick+Hand&family=Playfair+Display+SC:ital@1&family=Rajdhani:wght@600&family=Rubik+Distressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Faustina:ital@1&family=Handlee&family=Indie+Flower&family=Josefin+Slab:wght@700&family=Kalam&family=Libre+Baskerville&family=Lora:ital@1&family=Nanum+Gothic&family=Open+Sans&family=Pacifico&family=Patrick+Hand&family=Playfair+Display+SC:ital@1&family=Rajdhani:wght@600&family=Rubik+Distressed&display=swap');
+*{margin: 0;
+padding: 0;}
+
+.bgvideo{
+    position: fixed;
+    right: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
+    height:auto;
+    z-index: -1;
+}
+h1{ font-family: 'Nanum Gothic', sans-serif;
+    font-size: 50px;
+    color: black;
+}
+h1 a{ text-decoration: none;
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    border-width: 4px;
+    color:black;
+    padding: 10px 30px;
+    border-radius: 70px;
+
+
+
+}
